@@ -75,9 +75,15 @@
         "title2": "Valor del proyecto",
         "impact": "El proceso de investigación se centró en extensiones populares de Google Chrome, identificando buenas prácticas en diseño minimalista y UX. Además, se exploraron las tendencias en herramientas de inteligencia artificial para inspirar una identidad alineada con innovación.",
         "design": "ChromeAsk AI es una extensión de Google Chrome diseñada para responder automáticamente a preguntas sobre videos o páginas web, mejorando la experiencia de navegación al proporcionar respuestas rápidas e inteligentes. A continuación, se describen las decisiones clave de diseño:",
-        "colors": "La paleta de colores de ChromeAsk AI transmite profesionalismo y claridad:-Azul: Confianza y tecnología.-Blanco: Fondo limpio y legible.-Negro: Contraste y seriedad en detalles.Esta combinación asegura una experiencia visual eficiente y moderna.",        
+        "colors": "La paleta de colores de ChromeAsk AI transmite profesionalismo y claridad:",
+        "colors2": "-Azul: Confianza y tecnología.",
+        "colors3": "-Blanco: Fondo limpio y legible.",
+        "colors4": "-Negro: Contraste y seriedad en detalles.",
+        "colors5": "Esta combinación asegura una experiencia visual eficiente y moderna.",
         "type": "Chrome Ask AI utiliza las tipografías Tanker y Gorham para lograr una identidad visual profesional y equilibrada. Tanker, con su estilo fuerte y moderno, se utiliza para los encabezados y elementos principales, mientras que Gorham, más neutral y limpio, se emplea para el cuerpo de texto, asegurando legibilidad y armonía en la interfaz.",
-        "final": "Icono de la extensión: El logo de ChromeAsk AI es un simple globo de conversación combinado con elementos abstractos de circuitos o redes neuronales, simbolizando la integración de la inteligencia artificial con la comunicación.-Interfaz de usuario: La interfaz es intuitiva y minimalista, con burbujas de chat que emergen de forma discreta cuando el usuario activa la extensión. El diseño se centra en la accesibilidad, facilitando respuestas rápidas sin interrumpir la experiencia de navegación._Estilo: El diseño visual se integra armoniosamente con la estética de Google Chrome, siendo discreto pero eficaz, para que el usuario pueda interactuar con la extensión sin distracciones..",
+        "final": "-Icono de la extensión: El logo de ChromeAsk AI es un simple globo de conversación combinado con elementos abstractos de circuitos o redes neuronales, simbolizando la integración de la inteligencia artificial con la comunicación.",
+        "final2": "-Interfaz de usuario: La interfaz es intuitiva y minimalista, con burbujas de chat que emergen de forma discreta cuando el usuario activa la extensión. El diseño se centra en la accesibilidad, facilitando respuestas rápidas sin interrumpir la experiencia de navegación.",
+        "final3": "-Estilo: El diseño visual se integra armoniosamente con la estética de Google Chrome, siendo discreto pero eficaz, para que el usuario pueda interactuar con la extensión sin distracciones",
         "imagen2": "/imagenes/ch2.jpg"
         }       
     },  
@@ -91,9 +97,14 @@
         "title2": "Valor del proyecto",
         "impact": "Inview logró diferenciarse en el mercado inmobiliario gracias a su identidad visual moderna y una interfaz fácil de usar. La plataforma ofrece una experiencia atractiva tanto para propietarios como para compradores o arrendadores, facilitando la gestión de inmuebles de manera eficiente.",
         "design": "Inview es una marca dedicada a la venta y renta de inmuebles, con un diseño visual enfocado en la modernidad y la accesibilidad. Aquí están las decisiones clave de diseño: ",
-        "colors": "La paleta de colores refleja confianza, elegancia y accesibilidad:-Azul oscuro: Representa estabilidad y confianza.-Gris claro: Transmite modernidad y neutralidad, destacando la funcionalidad del servicio.-Verde: Simboliza crecimiento y frescura, asociado a nuevas oportunidades en el mercado inmobiliario.",        
+        "colors": "La paleta de colores refleja confianza, elegancia y accesibilidad:",
+        "colors2": "-Azul oscuro: Representa estabilidad y confianza.",
+        "colors3": "-Gris claro: Transmite modernidad y neutralidad, destacando la funcionalidad del servicio.",
+        "colors4": "-Verde: Simboliza crecimiento y frescura, asociado a nuevas oportunidades en el mercado inmobiliario.",
         "type": "Se utiliza una tipografía sans-serif moderna y legible, proporcionando claridad y facilidad de lectura, especialmente en aplicaciones móviles y plataformas web.",
-        "final": "-Logo: El logo de Inview es tipográfico, con un estilo limpio y profesional, enfatizando la simplicidad y accesibilidad de la marca. -Estilo: El diseño es minimalista, con énfasis en la funcionalidad, permitiendo que el contenido inmobiliario se destaque de manera clara y eficiente.Este enfoque de diseño asegura que Inview sea percibida como una marca confiable y accesible para aquellos interesados en el mercado de bienes raíces.",
+        "final": "-Logo: El logo de Inview es tipográfico, con un estilo limpio y profesional, enfatizando la simplicidad y accesibilidad de la marca. ",
+        "final2": "-Estilo: El diseño es minimalista, con énfasis en la funcionalidad, permitiendo que el contenido inmobiliario se destaque de manera clara y eficiente.",
+        "final3": "-Este enfoque de diseño asegura que Inview sea percibida como una marca confiable y accesible para aquellos interesados en el mercado de bienes raíces.",
         "imagen2": "/imagenes/inv2.jpg"
         }
     },
@@ -107,11 +118,15 @@
         "title2": "Valor del proyecto",
         "impact": "El objetivo principal fue crear una identidad visual distintiva que proyectara profesionalismo y confianza, diferenciando a Orion Inmobiliaria en un mercado competitivo. Se buscó desarrollar una marca que funcionara tanto en medios tradicionales como digitales, fortaleciendo la presencia del agente en su comunidad local y en el entorno digital.",
         "design": "El diseño de Orion Inmobiliaria transmite prestigio y confianza, enfocándose en proyectar sofisticación y solidez, reflejando su compromiso con servicios inmobiliarios de alta calidad.",
-        "colors": "Dorado: Simboliza lujo, éxito y prestigio, resaltando el carácter exclusivo de la marca.-Gris: Representa neutralidad, equilibrio y modernidad, aportando una base sólida al diseño.-Blanco: Evoca claridad, pureza y profesionalismo, generando un contraste limpio y elegante.-Esta paleta refuerza la percepción de confianza y distinción en el sector inmobiliario.",        
+        "colors": "-Dorado: Simboliza lujo, éxito y prestigio, resaltando el carácter exclusivo de la marca.",        
+        "colors2": "-Gris: Representa neutralidad, equilibrio y modernidad, aportando una base sólida al diseño.",  
+        "colors3": "-Blanco: Evoca claridad, pureza y profesionalismo, generando un contraste limpio y elegante.",
         "type": "A esto se suman las tipografías Hando Soft, con líneas redondeadas que transmiten cercanía y modernidad, y Caviar Dreams, que refuerza la sensación de sofisticación y profesionalismo. Esta combinación integral proyecta una marca sólida, confiable y visualmente atractiva en el sector inmobiliario.",
-        "final": "Logo: El logo de Inview es tipográfico y con icono, con un estilo limpio y profesional, enfatizando la simplicidad y accesibilidad de la marca.-Estilo: El diseño es minimalista, con énfasis en la funcionalidad, permitiendo que el contenido inmobiliario se destaque de manera clara y eficiente.Este enfoque de diseño asegura que Inview sea percibida como una marca confiable y accesible para aquellos interesados en el mercado de bienes raíces.",
+        "final": "-Logo: El logo de Inview es tipográfico y con icono, con un estilo limpio y profesional, enfatizando la simplicidad y accesibilidad de la marca.",
+        "final2": "-Estilo: El diseño es minimalista, con énfasis en la funcionalidad, permitiendo que el contenido inmobiliario se destaque de manera clara y eficiente.",
+        "final3": "Este enfoque de diseño asegura que Inview sea percibida como una marca confiable y accesible para aquellos interesados en el mercado de bienes raíces.",
         "imagen2": "/imagenes/or2.jpg"
-            }   
+        }   
     },
     {
         "params": {
@@ -123,9 +138,13 @@
         "title2": "Valor del proyecto",
         "impact": "El objetivo era diseñar un flipbook que funcionara como un recuerdo memorable, donde cada página representara una secuencia del video del ciclista en plena acción. Se buscaba plasmar la adrenalina del MTB (Mountain Bike) en un producto que reflejara la esencia aventurera del parque y que los visitantes pudieran llevar consigo.",
         "design": "El flipbook del Aglomerados Cotopaxi Bike Park es un proyecto personal que captura la esencia y la emoción del parque de bicicletas de montaña, ofreciendo una forma tangible de revivir los momentos más destacados de las actividades en el parque. Este flipbook está diseñado para ser una pieza única y atractiva, ideal para los visitantes del parque.",
-        "colors": "Rojo: Representa energía, pasión y emoción, destacando la adrenalina de las actividades de MTB.-Gris: Aporta neutralidad y modernidad, equilibrando la intensidad del rojo.-Blanco: Evoca claridad y simplicidad, generando un contraste limpio y atractivo.Esta combinación refuerza la conexión con la aventura y el diseño práctico, alineándose con el espíritu del flipbook y el parque.",        
+        "colors": "-Rojo: Representa energía, pasión y emoción, destacando la adrenalina de las actividades de MTB.",        
+        "colors2": "-Gris: Aporta neutralidad y modernidad, equilibrando la intensidad del rojo.",
+        "colors3": "-Blanco: Evoca claridad y simplicidad, generando un contraste limpio y atractivo.",
+        "colors4": "Esta combinación refuerza la conexión con la aventura y el diseño práctico, alineándose con el espíritu del flipbook y el parque.",
         "type": "La tipografía Gotham, conocida por sus líneas limpias y su estilo contemporáneo, ideal para reforzar la sensación de confianza y accesibilidad. Juntas, estas características reflejan el espíritu aventurero y el diseño funcional del flipbook.",
-        "final": "El diseño del flipbook se enfoca en mostrar las espectaculares acrobacias y saltos del Cotopaxi Bike Park. Las imágenes en movimiento se complementan con un formato de flipbook tradicional, creando una experiencia interactiva y tangible. La disposición de las páginas está pensada para guiar al usuario a través de la acción, haciendo que cada pase de página se sienta como una extensión del recorrido en bicicleta.-Este proyecto refleja no solo la pasión por el MTB, sino también el deseo de ofrecer una experiencia única a los visitantes del parque, transformando recuerdos en una pieza física que podrán llevarse consigo.",
+        "final": "-El diseño del flipbook se enfoca en mostrar las espectaculares acrobacias y saltos del Cotopaxi Bike Park. Las imágenes en movimiento se complementan con un formato de flipbook tradicional, creando una experiencia interactiva y tangible. La disposición de las páginas está pensada para guiar al usuario a través de la acción, haciendo que cada pase de página se sienta como una extensión del recorrido en bicicleta.",
+        "final2": "-Este proyecto refleja no solo la pasión por el MTB, sino también el deseo de ofrecer una experiencia única a los visitantes del parque, transformando recuerdos en una pieza física que podrán llevarse consigo.",
         "imagen2": "/imagenes/fl2.jpg"
         }
     },    
@@ -139,7 +158,10 @@
         "title2": "Valor del proyecto",
         "impact": "El valor del proyecto radica en su creatividad y originalidad, al integrar elementos espaciales y futbolísticos en un diseño único. Además, la asociación con el Real Madrid, un club de renombre mundial, eleva el valor comercial del cereal, atrayendo a fanáticos tanto locales como globales.",
         "design": "Galactic Crunch es un proyecto personal que diseña un empaque para un cereal inspirado en el Real Madrid. Combina elementos futbolísticos y un estilo visual galáctico para atraer a los fanáticos del club y a un público joven, ofreciendo una experiencia divertida, fresca y auténtica.",
-        "colors": "La paleta de colores se orienta a transmitir dinamismo y energía:-Azul oscuro: Representa la confianza y el prestigio del Real Madrid.-Blanco: Refleja la pureza y la conexión con el club, que es sinónimo de excelencia.-Amarillo: Añade un toque de vitalidad y energía, evocando la emoción y la acción de un partido de fútbol.",        
+        "colors": "La paleta de colores se orienta a transmitir dinamismo y energía:",        
+        "colors2": "-Azul oscuro: Representa la confianza y el prestigio del Real Madrid.",
+        "colors3": "-Blanco: Refleja la pureza y la conexión con el club, que es sinónimo de excelencia.",
+        "colors4": "-Amarillo: Añade un toque de vitalidad y energía, evocando la emoción y la acción de un partido de fútbol.",
         "type": "La identidad visual de Galactic Crunch combina las tipografías FlipFlop, con su estilo divertido y creativo, y Bebas Neue, que aporta modernidad y solidez. Esta combinación refuerza el enfoque lúdico e innovador de la marca, conectando con su público de manera fresca y atractiva.",
         "final": "El empaque destaca por su enfoque visual innovador, con gráficos futuristas que aluden a la galaxia y al mismo tiempo integran elementos futbolísticos como balones o trofeos. El diseño busca resaltar tanto la relación con el Real Madrid como la experiencia única que el cereal promete a sus consumidores. La disposición de los elementos y el uso de los colores asegura una alta visibilidad en los estantes, mientras que el logo y los gráficos invitan al consumidor a conectarse con la emoción del fútbol.",
         "imagen2": "/imagenes/ga2.jpg"
