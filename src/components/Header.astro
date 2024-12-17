@@ -10,9 +10,9 @@ import { Image } from "astro:assets";
         <Image src="/imagenes/eleese.jpeg" alt="ELESE" width={60} height={20} class="h-auto" />
       </div>
       
-      {/* Desktop Navigation */}
-      <div class="hidden md:block">
-        <div class="ml-10 flex items-center space-x-4">
+      {/* Navigation - Siempre horizontal */}
+      <div class="block">
+        <div class="ml-0 md:ml-10 flex items-center space-x-0 md:space-x-4">
           <a href="/" class="text-white hover:text-[#23714D] px-3 py-2 rounded-md text-sm font-medium">
             Home
           </a>
@@ -26,12 +26,6 @@ import { Image } from "astro:assets";
             Contact
           </a>
         </div>
-      </div>
-
-      {/* Mobile Menu Button */}
-      <div class="md:hidden">
-        <button class="text-gray-600 hover:text-gray-900 focus:outline-none">
-        </button>
       </div>
     </div>
   </nav>
