@@ -5,13 +5,13 @@
             "project":"unlessai",
             "banner": "/imagenes/bannerun.jpg",
             "Imagen1": "/imagenes/un1.jpg",
-            "about": "ChromeAsk AI es una extensión de Google Chrome que utiliza inteligencia artificial para responder automáticamente preguntas sobre videos y páginas web. La herramienta facilita la búsqueda de información en tiempo real, permitiendo a los usuarios obtener respuestas precisas sin tener que abandonar la página que están consultando. Este proyecto se enfoca en mejorar la accesibilidad y eficiencia en la navegación web",    
+            "about": "El propósito del proyecto fue desarrollar una identidad visual y una interfaz de usuario intuitiva que reflejara innovación y facilidad de uso. Unless AI busca posicionarse como una solución versátil para diseñadores, creadores de contenido y profesionales que requieran herramientas avanzadas de inteligencia artificial en un entorno unificado.",    
             "title2": "Valor del proyecto",
-            "impact": "El proceso de investigación se centró en extensiones populares de Google Chrome, identificando buenas prácticas en diseño minimalista y UX. Además, se exploraron las tendencias en herramientas de inteligencia artificial para inspirar una identidad alineada con innovación.",
-            "design": "ChromeAsk AI es una extensión de Google Chrome diseñada para responder automáticamente a preguntas sobre videos o páginas web, mejorando la experiencia de navegación al proporcionar respuestas rápidas e inteligentes. A continuación, se describen las decisiones clave de diseño:",
-            "colors": "La paleta de colores de ChromeAsk AI transmite profesionalismo y claridad:-Azul: Confianza y tecnología.-Blanco: Fondo limpio y legible.-Negro: Contraste y seriedad en detalles.Esta combinación asegura una experiencia visual eficiente y moderna.",        
-            "type": "Chrome Ask AI utiliza las tipografías Tanker y Gorham para lograr una identidad visual profesional y equilibrada. Tanker, con su estilo fuerte y moderno, se utiliza para los encabezados y elementos principales, mientras que Gorham, más neutral y limpio, se emplea para el cuerpo de texto, asegurando legibilidad y armonía en la interfaz.",
-            "final": "Icono de la extensión: El logo de Chrome Ask AI es un simple globo de conversación combinado con elementos abstractos de circuitos o redes neuronales, simbolizando la integración de la inteligencia artificial con la comunicación. -Interfaz de usuario: La interfaz es intuitiva y minimalista, con burbujas de chat que emergen de forma discreta cuando el usuario activa la extensión. El diseño se centra en la accesibilidad, facilitando respuestas rápidas sin interrumpir la experiencia de navegación.-Estilo: El diseño visual se integra armoniosamente con la estética de Google Chrome, siendo discreto pero eficaz, para que el usuario pueda interactuar con la extensión sin distracciones.",
+            "impact": "Este proyecto fue una oportunidad para trabajar en el desarrollo de branding y diseño de interfaces en un entorno digital emergente. Lección Aprendida: La importancia de validar continuamente la usabilidad durante el proceso de diseño para garantizar una experiencia fluida.",
+            "design": "Unless AI, como una plataforma para adquirir créditos de herramientas de inteligencia artificial orientadas al diseño multimedia, tiene un diseño centrado en la tecnología, la funcionalidad y la accesibilidad. Aquí están las decisiones clave:",
+            "colors": "Azul: Representa confianza y tecnología, alineándose con la idea de una herramienta inteligente y confiable.Rosa: Aporta un toque de dinamismo y creatividad, destacando la innovación en la plataforma.Blanco: Brinda limpieza y claridad, mejorando la legibilidad y la estética general.",        
+            "type": "La tipografía seleccionada es Inter, una fuente moderna y versátil que se adapta a diferentes pesos tipográficos, lo que permite una jerarquía visual clara y profesional, esencial para la legibilidad y la experiencia del usuario en la plataforma.Este diseño busca equilibrar profesionalismo y creatividad, asegurando una experiencia visualmente atractiva y funcional para los usuarios de Unless AI.",
+            "final": "El diseño combina un fondo dinámico con un degradado atractivo y un texto limpio en blanco. Este contraste asegura que la marca sea visualmente impactante y memorable, reflejando el enfoque innovador de la plataforma.",
             "imagen2": "/imagenes/un2.jpg"
         }
     },
@@ -68,7 +68,7 @@
         "title": "¿De que trata el proyecto?",
         "project":"inview",                         
         "banner": "/imagenes/bannerin.jpg", 
-        "Imagen1": "/imagenes/in1.jpg",
+        "Imagen1": "/imagenes/inv1.jpg",
         "about": "Inview es una plataforma digital especializada en la venta y renta de inmuebles. La marca busca ofrecer una experiencia fluida y moderna, facilitando la conexión entre compradores, arrendadores y propietarios. La propuesta visual debía reflejar innovación y accesibilidad, posicionando a Inview como una opción confiable y eficiente en el mercado inmobiliario.",
         "title2": "Valor del proyecto",
         "impact": "Inview logró diferenciarse en el mercado inmobiliario gracias a su identidad visual moderna y una interfaz fácil de usar. La plataforma ofrece una experiencia atractiva tanto para propietarios como para compradores o arrendadores, facilitando la gestión de inmuebles de manera eficiente.",
@@ -76,7 +76,7 @@
         "colors": "La paleta de colores refleja confianza, elegancia y accesibilidad:-Azul oscuro: Representa estabilidad y confianza.-Gris claro: Transmite modernidad y neutralidad, destacando la funcionalidad del servicio.-Verde: Simboliza crecimiento y frescura, asociado a nuevas oportunidades en el mercado inmobiliario.",        
         "type": "Se utiliza una tipografía sans-serif moderna y legible, proporcionando claridad y facilidad de lectura, especialmente en aplicaciones móviles y plataformas web.",
         "final": "-Logo: El logo de Inview es tipográfico, con un estilo limpio y profesional, enfatizando la simplicidad y accesibilidad de la marca. -Estilo: El diseño es minimalista, con énfasis en la funcionalidad, permitiendo que el contenido inmobiliario se destaque de manera clara y eficiente.Este enfoque de diseño asegura que Inview sea percibida como una marca confiable y accesible para aquellos interesados en el mercado de bienes raíces.",
-        "imagen2": "/imagenes/in2.jpg"
+        "imagen2": "/imagenes/inv2.jpg"
         }
     },
     {
