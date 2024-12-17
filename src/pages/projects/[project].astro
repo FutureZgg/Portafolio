@@ -1,0 +1,64 @@
+---
+import projects from '../../content/projects.json';
+import Layout from '../../layouts/Layout.astro';
+
+export function getStaticPaths() {
+  return projects.map(project => ({
+    params: { 
+      project: project.params.project 
+    },
+    props: { 
+      projectData: project.params 
+    }
+  }));
+}
+
+const { project } = Astro.params;
+const { projectData } = Astro.props;
+--- 
+
+
+<Layout>
+ <div>
+     <div class="w-full h-[365px] bg-[#23714D]">
+        <img src={projectData.banner} alt="" class="w-full h-full object-cover">
+     </div>
+     <div class="max-w-6xl w-full flex justify-center items-center gap-10 my-12 mx-auto">
+        <div class="">
+            <img src={projectData.Imagen1} alt="" class="w-full h-full object-cover rounded-2xl">
+        </div>
+        <div class="">
+            <h2 class="text-green-900 font-semibold text-4xl">De que trata el proyecto</h2>
+            <p>{projectData.about}</p>
+            <h2 class="text-green-900 font-semibold text-4xl mt-6">Valor del proyecto</h2>
+            <p>{projectData.impact}</p>
+        </div>
+
+     </div>
+     <div class="max-w-6xl w-full flex justify-center items-center gap-20 mx-auto my-10">
+        <div class="flex flex-col gap-8 w-1/2">
+            <div>
+                <h2 class="text-green-900 font-semibold text-4xl">Diseño</h2>
+                <p >{projectData.design}</p>
+            </div>
+            <div>
+                <h2 class="text-green-900 font-semibold text-4xl">Colores</h2>
+                <p>{projectData.colors}</p>
+            </div>
+            <div>
+                <h2 class="text-green-900 font-semibold text-4xl">Tipografía</h2>
+                <p>{projectData.type}</p>
+            </div>
+            <div>
+                <h2 class="text-green-900 font-semibold text-4xl">Final</h2>
+                <p>{projectData.final}</p>
+            </div>
+        </div>
+        <div class=" w-1/2">
+            <img src={projectData.imagen2} alt="" class="w-full h-full object-cover rounded-2xl">
+
+        </div>
+
+
+     </div>
+</div>

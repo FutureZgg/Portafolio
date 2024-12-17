@@ -1,0 +1,121 @@
+---
+
+import Layout from '../layouts/Layout.astro';
+
+const slides = [
+	{
+		id: 1,
+		src: "/imagenes/1.jpg",
+		alt: "Project 1",
+		title: "Project One",
+	},
+	{
+		id: 2,
+		src: "/imagenes/2.jpg",
+		alt: "Project 2",
+		title: "Project Two",
+	},
+	{
+		id: 3,
+		src: "/imagenes/3.jpg",
+		alt: "Project 3",
+		title: "Project Three",
+	}
+];
+---
+
+<Layout>
+	<section class="flex flex-col md:flex-row h-screen">
+		<!-- Left side - Text content -->
+		<div id="tanker-title" class="flex flex-col justify-center items-start text-left w-1/2 px-12"> 
+			<h1 class="text-8xl font-normal w-full">ELESE</h1>
+			<p class="text-5xl font-normal"> 
+				estudio de <span class="text-[#23714D]">diseño gráfico comunicacional</span> enfocado en crear soluciones visuales innovadoras
+			</p>
+		</div>
+
+		<!-- Right side - Slider -->
+		<div class="w-1/2 relative">
+			<div class="h-full slider-container">
+				{slides.map((slide, index) => (
+					<div class={`slide absolute inset-0 ${index === 0 ? 'opacity-100' : 'opacity-0'}`}>
+						<img 
+							src={slide.src} 
+							alt={slide.alt} 
+							class="w-full h-full object-cover"
+						>
+					</div>
+				))}
+				
+				<!-- Dots navigation -->
+				<div class="absolute bottom-16 left-1/2 transform -translate-x-1/2 flex gap-2">
+					{slides.map((_, index) => (
+						<button class="w-2 h-2 rounded-full bg-white opacity-50 dot-indicator" data-index={index}></button>
+					))}
+				</div>
+
+				<!-- More Button -->
+				<div class="absolute bottom-8 right-8">
+					<a href="/project" class="inline-block bg-[#23714D] text-white px-8 py-3 rounded-lg hover:bg-opacity-90 transition-colors duration-300">
+						More
+					</a>
+				</div>
+			</div>
+		</div>
+	</section>
+</Layout>
+
+<script>
+	function initSlider() {
+		const slides = document.querySelectorAll('.slide') as NodeListOf<HTMLElement>;
+		const dots = document.querySelectorAll('.dot-indicator') as NodeListOf<HTMLElement>;
+		let currentSlide = 0;
+
+		function updateSlide(newIndex: number): void {
+			// Fade out current slide
+			slides[currentSlide].style.opacity = '0';
+			dots[currentSlide].classList.remove('opacity-100');
+			
+			dots[currentSlide].classList.add('opacity-50');
+
+			// Fade in new slide
+			slides[newIndex].style.opacity = '1';
+			
+			dots[newIndex].classList.remove('opacity-50');
+			
+			dots[newIndex].classList.add('opacity-100');
+
+			currentSlide = newIndex;
+		}
+
+		// Auto advance slides
+		setInterval(() => {
+			const nextSlide = (currentSlide + 1) % slides.length;
+			updateSlide(nextSlide);
+		}, 3000);
+
+		// Initialize dots
+		dots[0].classList.add('opacity-100');
+		
+		// Add click handlers for dots
+		dots.forEach((dot, index) => {
+			dot.addEventListener('click', () => updateSlide(index));
+		});
+	}
+
+	document.addEventListener('DOMContentLoaded', initSlider);
+</script>
+
+<style>
+	.slide {
+		transition: opacity 0.5s ease-in-out;
+	}
+	
+	.dot-indicator {
+		transition: opacity 0.3s ease-in-out;
+	}
+
+	#tanker-title {
+		font-family: 'Tanker', sans-serif;
+	}
+</style>

@@ -1,0 +1,130 @@
+  [
+    {
+        "params": {
+            "title": "¿De que trata el proyecto?",
+            "project":"unlessai",
+            "banner": "/imagenes/bannerun.jpg",
+            "Imagen1": "/imagenes/un1.jpg",
+            "about": "ChromeAsk AI es una extensión de Google Chrome que utiliza inteligencia artificial para responder automáticamente preguntas sobre videos y páginas web. La herramienta facilita la búsqueda de información en tiempo real, permitiendo a los usuarios obtener respuestas precisas sin tener que abandonar la página que están consultando. Este proyecto se enfoca en mejorar la accesibilidad y eficiencia en la navegación web",    
+            "title2": "Valor del proyecto",
+            "impact": "El proceso de investigación se centró en extensiones populares de Google Chrome, identificando buenas prácticas en diseño minimalista y UX. Además, se exploraron las tendencias en herramientas de inteligencia artificial para inspirar una identidad alineada con innovación.",
+            "design": "ChromeAsk AI es una extensión de Google Chrome diseñada para responder automáticamente a preguntas sobre videos o páginas web, mejorando la experiencia de navegación al proporcionar respuestas rápidas e inteligentes. A continuación, se describen las decisiones clave de diseño:",
+            "colors": "La paleta de colores de ChromeAsk AI transmite profesionalismo y claridad:-Azul: Confianza y tecnología.-Blanco: Fondo limpio y legible.-Negro: Contraste y seriedad en detalles.Esta combinación asegura una experiencia visual eficiente y moderna.",        
+            "type": "Chrome Ask AI utiliza las tipografías Tanker y Gorham para lograr una identidad visual profesional y equilibrada. Tanker, con su estilo fuerte y moderno, se utiliza para los encabezados y elementos principales, mientras que Gorham, más neutral y limpio, se emplea para el cuerpo de texto, asegurando legibilidad y armonía en la interfaz.",
+            "final": "Icono de la extensión: El logo de Chrome Ask AI es un simple globo de conversación combinado con elementos abstractos de circuitos o redes neuronales, simbolizando la integración de la inteligencia artificial con la comunicación. -Interfaz de usuario: La interfaz es intuitiva y minimalista, con burbujas de chat que emergen de forma discreta cuando el usuario activa la extensión. El diseño se centra en la accesibilidad, facilitando respuestas rápidas sin interrumpir la experiencia de navegación.-Estilo: El diseño visual se integra armoniosamente con la estética de Google Chrome, siendo discreto pero eficaz, para que el usuario pueda interactuar con la extensión sin distracciones.",
+            "imagen2": "/imagenes/un2.jpg"
+        }
+    },
+    {               
+        "params": {
+        "title": "¿De que trata el proyecto?",
+        "project":"adaptive",
+        "banner": "/imagenes/bannerad.jpg",
+        "Imagen1": "/imagenes/ad1.jpg",
+        "about": "Adaptive es una propuesta de identidad visual para una página web dedicada a la creación de aplicaciones web. La marca debía reflejar dinamismo, evolución y modernidad, destacando su capacidad de adaptarse a nuevas tecnologías y necesidades del mercado digital. Este proyecto fue concebido para transmitir una sensación de flexibilidad tanto en el branding como en la experiencia de usuario.",
+        "title2": "Valor del proyecto",
+        "impact": "El proyecto Adaptive permitió explorar nuevas formas de aplicar branding en plataformas digitales. La identidad creada es lo suficientemente versátil para adaptarse a futuros cambios en la tecnología y las necesidades del mercado.-Resultado: La propuesta logró un equilibrio entre simplicidad y dinamismo, posicionando a Adaptive como una marca moderna, con la capacidad de evolucionar según las demandas del entorno digital.",
+        "design": "Adaptive es una marca diseñada para transmitir modernidad, flexibilidad y enfoque tecnológico, características esenciales para una plataforma dedicada a la creación de aplicaciones web. Aquí están las decisiones clave de diseño:",
+        "colors": "Los colores de Adaptive están pensados para transmitir modernidad y profesionalismo:-Negro aporta elegancia y solidez.-Celeste evoca innovación y frescura.-Blanco brinda claridad y simplicidad.Juntos, reflejan una marca tecnológica, limpia y confiable.",        
+        "type": "La tipografía utilizada es Raleway, que aporta una sensación de modernidad y amplitud, combinada con Montserrat, que añade solidez y legibilidad, reflejando la funcionalidad y el enfoque técnico de la marca.",
+        "final": "El logo de Adaptive es minimalista y versátil:-Símbolo: Un ícono abstracto formado por líneas fluidas que se conectan, simbolizando adaptabilidad y soluciones dinámicas.-Logotipo: El nombre 'Adaptive' utiliza letras ligeramente personalizadas para agregar singularidad, destacando la 'A' con un diseño abierto que evoca crecimiento y flexibilidad. -Estilo: La marca mantiene un enfoque simple y eficiente, lo que la hace altamente escalable y adaptable para su uso en múltiples formatos digitales.",
+        "imagen2": "/imagenes/ad2.jpg"
+        }
+    },
+    {    
+        "params": {
+        "title": "¿De que trata el proyecto?",
+        "project":"futuropoli",
+        "banner": "/imagenes/bannerfu.jpg",
+        "Imagen1": "/imagenes/fu1.jpg",
+        "about": "Futuropoly Security Land es un juego de mesa diseñado para empresarios que asisten a ferias tecnológicas. Su propósito es explicar, de manera lúdica, cómo los avances tecnológicos pueden beneficiar sus negocios. A través de dinámicas entretenidas, los participantes exploran conceptos relacionados con la seguridad digital y la innovación, facilitando la comprensión de ideas complejas en un entorno interactivo.",
+        "title2": "Valor del proyecto",
+        "impact": "Futuropoly Security Land se convirtió en una herramienta eficaz para enseñar sobre innovación tecnológica y ciberseguridad de forma accesible. El juego facilita la comprensión de conceptos complejos mediante la gamificación, ayudando a los empresarios a visualizar el impacto positivo de adoptar nuevas tecnologías.",
+        "design": "Monopoly Security Land es un juego de mesa diseñado para educar y entretener a empresarios, presentando de manera lúdica cómo los avances tecnológicos benefician sus negocios. Aquí están las decisiones clavede diseño:",
+        "colors": "La paleta está orientada a transmitir tecnología y seguridad, junto con un toque divertido:-Azul oscuro: Representa confianza, estabilidad y tecnología.-Verde brillante: Simboliza crecimiento, progreso y el enfoque empresarial.-Amarillo oro: Aporta dinamismo y energía, evocando éxito y logros.",        
+        "type": "La tipografía Gotham se utiliza debido a su aspecto moderno, limpio y versátil, ideal para transmitir un enfoque profesional y accesible. Su uso en las cartas, instrucciones y títulos del tablero asegura legibilidad y coherencia visual a lo largo del juego, mientras que su estilo geométrico refuerza la sensación de modernidad y tecnología.",
+        "final": "Diseño de Juego de MesaSímbolo: El logo incluye elementos gráficos como candados, escudos o circuitos, que aluden a la seguridad tecnológica.Tablero de juego: Diseñado con una estética futurista, incorpora íconos tecnológicos y zonas de 'avance' que simulan decisiones estratégicas en el mundo empresarial.Cartas y fichas: Adaptadas con elementos visuales que representan tecnologías clave como inteligencia artificial, ciberseguridad y automatización.",
+        "imagen2": "/imagenes/fu2.jpg"
+        }
+    },
+    {
+        "params": {             
+        "title": "¿De que trata el proyecto?",
+        "project":"chromeask",
+        "banner": "/imagenes/bannerch.jpg",
+        "Imagen1": "/imagenes/ch1.jpg",
+        "about": "ChromeAsk AI es una extensión de Google Chrome que utiliza inteligencia artificial para responder automáticamente preguntas sobre videos y páginas web. La herramienta facilita la búsqueda de información en tiempo real, permitiendo a los usuarios obtener respuestas precisas sin tener que abandonar la página que están consultando. Este proyecto se enfoca en mejorar la accesibilidad y eficiencia en la navegación web.",
+        "title2": "Valor del proyecto",
+        "impact": "El proceso de investigación se centró en extensiones populares de Google Chrome, identificando buenas prácticas en diseño minimalista y UX. Además, se exploraron las tendencias en herramientas de inteligencia artificial para inspirar una identidad alineada con innovación.",
+        "design": "ChromeAsk AI es una extensión de Google Chrome diseñada para responder automáticamente a preguntas sobre videos o páginas web, mejorando la experiencia de navegación al proporcionar respuestas rápidas e inteligentes. A continuación, se describen las decisiones clave de diseño:",
+        "colors": "La paleta de colores de ChromeAsk AI transmite profesionalismo y claridad:-Azul: Confianza y tecnología.-Blanco: Fondo limpio y legible.-Negro: Contraste y seriedad en detalles.Esta combinación asegura una experiencia visual eficiente y moderna.",        
+        "type": "Chrome Ask AI utiliza las tipografías Tanker y Gorham para lograr una identidad visual profesional y equilibrada. Tanker, con su estilo fuerte y moderno, se utiliza para los encabezados y elementos principales, mientras que Gorham, más neutral y limpio, se emplea para el cuerpo de texto, asegurando legibilidad y armonía en la interfaz.",
+        "final": "Icono de la extensión: El logo de ChromeAsk AI es un simple globo de conversación combinado con elementos abstractos de circuitos o redes neuronales, simbolizando la integración de la inteligencia artificial con la comunicación.-Interfaz de usuario: La interfaz es intuitiva y minimalista, con burbujas de chat que emergen de forma discreta cuando el usuario activa la extensión. El diseño se centra en la accesibilidad, facilitando respuestas rápidas sin interrumpir la experiencia de navegación._Estilo: El diseño visual se integra armoniosamente con la estética de Google Chrome, siendo discreto pero eficaz, para que el usuario pueda interactuar con la extensión sin distracciones..",
+        "imagen2": "/imagenes/ch2.jpg"
+        }       
+    },  
+    {
+        "params": {
+        "title": "¿De que trata el proyecto?",
+        "project":"inview",                         
+        "banner": "/imagenes/bannerin.jpg", 
+        "Imagen1": "/imagenes/in1.jpg",
+        "about": "Inview es una plataforma digital especializada en la venta y renta de inmuebles. La marca busca ofrecer una experiencia fluida y moderna, facilitando la conexión entre compradores, arrendadores y propietarios. La propuesta visual debía reflejar innovación y accesibilidad, posicionando a Inview como una opción confiable y eficiente en el mercado inmobiliario.",
+        "title2": "Valor del proyecto",
+        "impact": "Inview logró diferenciarse en el mercado inmobiliario gracias a su identidad visual moderna y una interfaz fácil de usar. La plataforma ofrece una experiencia atractiva tanto para propietarios como para compradores o arrendadores, facilitando la gestión de inmuebles de manera eficiente.",
+        "design": "Inview es una marca dedicada a la venta y renta de inmuebles, con un diseño visual enfocado en la modernidad y la accesibilidad. Aquí están las decisiones clave de diseño: ",
+        "colors": "La paleta de colores refleja confianza, elegancia y accesibilidad:-Azul oscuro: Representa estabilidad y confianza.-Gris claro: Transmite modernidad y neutralidad, destacando la funcionalidad del servicio.-Verde: Simboliza crecimiento y frescura, asociado a nuevas oportunidades en el mercado inmobiliario.",        
+        "type": "Se utiliza una tipografía sans-serif moderna y legible, proporcionando claridad y facilidad de lectura, especialmente en aplicaciones móviles y plataformas web.",
+        "final": "-Logo: El logo de Inview es tipográfico, con un estilo limpio y profesional, enfatizando la simplicidad y accesibilidad de la marca. -Estilo: El diseño es minimalista, con énfasis en la funcionalidad, permitiendo que el contenido inmobiliario se destaque de manera clara y eficiente.Este enfoque de diseño asegura que Inview sea percibida como una marca confiable y accesible para aquellos interesados en el mercado de bienes raíces.",
+        "imagen2": "/imagenes/in2.jpg"
+        }
+    },
+    {
+        "params": {
+        "title": "¿De que trata el proyecto?",
+        "project":"orion",
+        "banner": "/imagenes/banneror.jpg",
+        "Imagen1": "/imagenes/or1.jpg",
+        "about": "Orion Inmobiliaria es una marca desarrollada para un agente inmobiliario con el objetivo de diferenciarse de su competencia en el sector. La propuesta visual debía transmitir confianza, exclusividad y modernidad, posicionando a la agencia como un referente en el mercado de bienes raíces. El concepto de la marca se inspiró en la constelación de Orión, sugiriendo orientación, claridad y visión estratégica.",
+        "title2": "Valor del proyecto",
+        "impact": "El objetivo principal fue crear una identidad visual distintiva que proyectara profesionalismo y confianza, diferenciando a Orion Inmobiliaria en un mercado competitivo. Se buscó desarrollar una marca que funcionara tanto en medios tradicionales como digitales, fortaleciendo la presencia del agente en su comunidad local y en el entorno digital.",
+        "design": "El diseño de Orion Inmobiliaria transmite prestigio y confianza, enfocándose en proyectar sofisticación y solidez, reflejando su compromiso con servicios inmobiliarios de alta calidad.",
+        "colors": "Dorado: Simboliza lujo, éxito y prestigio, resaltando el carácter exclusivo de la marca.-Gris: Representa neutralidad, equilibrio y modernidad, aportando una base sólida al diseño.-Blanco: Evoca claridad, pureza y profesionalismo, generando un contraste limpio y elegante.-Esta paleta refuerza la percepción de confianza y distinción en el sector inmobiliario.",        
+        "type": "A esto se suman las tipografías Hando Soft, con líneas redondeadas que transmiten cercanía y modernidad, y Caviar Dreams, que refuerza la sensación de sofisticación y profesionalismo. Esta combinación integral proyecta una marca sólida, confiable y visualmente atractiva en el sector inmobiliario.",
+        "final": "Logo: El logo de Inview es tipográfico y con icono, con un estilo limpio y profesional, enfatizando la simplicidad y accesibilidad de la marca.-Estilo: El diseño es minimalista, con énfasis en la funcionalidad, permitiendo que el contenido inmobiliario se destaque de manera clara y eficiente.Este enfoque de diseño asegura que Inview sea percibida como una marca confiable y accesible para aquellos interesados en el mercado de bienes raíces.",
+        "imagen2": "/imagenes/or2.jpg"
+            }   
+    },
+    {
+        "params": {
+        "title": "¿De que trata el proyecto?",
+        "project":"flipbook",
+        "banner": "/imagenes/bannerfl.jpg",
+        "Imagen1": "/imagenes/fl1.jpg",
+        "about": "Este flipbook es una propuesta innovadora para capturar momentos emocionantes de los saltos y maniobras realizadas en el Cotopaxi Bike Park, ofreciendo a los visitantes una experiencia tangible y única. El proyecto combina elementos gráficos y audiovisuales en un formato físico, permitiendo guardar videos de las experiencias vividas en el parque de una manera creativa.",
+        "title2": "Valor del proyecto",
+        "impact": "El objetivo era diseñar un flipbook que funcionara como un recuerdo memorable, donde cada página representara una secuencia del video del ciclista en plena acción. Se buscaba plasmar la adrenalina del MTB (Mountain Bike) en un producto que reflejara la esencia aventurera del parque y que los visitantes pudieran llevar consigo.",
+        "design": "El flipbook del Aglomerados Cotopaxi Bike Park es un proyecto personal que captura la esencia y la emoción del parque de bicicletas de montaña, ofreciendo una forma tangible de revivir los momentos más destacados de las actividades en el parque. Este flipbook está diseñado para ser una pieza única y atractiva, ideal para los visitantes del parque.",
+        "colors": "Rojo: Representa energía, pasión y emoción, destacando la adrenalina de las actividades de MTB.-Gris: Aporta neutralidad y modernidad, equilibrando la intensidad del rojo.-Blanco: Evoca claridad y simplicidad, generando un contraste limpio y atractivo.Esta combinación refuerza la conexión con la aventura y el diseño práctico, alineándose con el espíritu del flipbook y el parque.",        
+        "type": "La tipografía Gotham, conocida por sus líneas limpias y su estilo contemporáneo, ideal para reforzar la sensación de confianza y accesibilidad. Juntas, estas características reflejan el espíritu aventurero y el diseño funcional del flipbook.",
+        "final": "El diseño del flipbook se enfoca en mostrar las espectaculares acrobacias y saltos del Cotopaxi Bike Park. Las imágenes en movimiento se complementan con un formato de flipbook tradicional, creando una experiencia interactiva y tangible. La disposición de las páginas está pensada para guiar al usuario a través de la acción, haciendo que cada pase de página se sienta como una extensión del recorrido en bicicleta.-Este proyecto refleja no solo la pasión por el MTB, sino también el deseo de ofrecer una experiencia única a los visitantes del parque, transformando recuerdos en una pieza física que podrán llevarse consigo.",
+        "imagen2": "/imagenes/fl2.jpg"
+        }
+    },    
+    {
+        "params": {
+        "title": "¿De que trata el proyecto?",
+        "project":"galacticcrunch",
+        "banner": "/imagenes/bannerga.jpg",
+        "Imagen1": "/imagenes/ga1.jpg",
+        "about": "Galactic Crunch es un proyecto de diseño que involucra la creación de un empaque para un cereal inspirado en el Real Madrid. El concepto está centrado en capturar la esencia del club, apelando tanto a los aficionados fieles como a un público más joven y entusiasta. A través de elementos visuales que hacen referencia al fútbol y al universo galáctico, el empaque busca ofrecer una experiencia divertida y atractiva, reflejando la cultura del club y su identidad en un producto cotidiano como el cereal. Esta propuesta combina creatividad, deporte y entretenimiento en un solo producto.",
+        "title2": "Valor del proyecto",
+        "impact": "El valor del proyecto radica en su creatividad y originalidad, al integrar elementos espaciales y futbolísticos en un diseño único. Además, la asociación con el Real Madrid, un club de renombre mundial, eleva el valor comercial del cereal, atrayendo a fanáticos tanto locales como globales.",
+        "design": "Galactic Crunch es un proyecto personal que diseña un empaque para un cereal inspirado en el Real Madrid. Combina elementos futbolísticos y un estilo visual galáctico para atraer a los fanáticos del club y a un público joven, ofreciendo una experiencia divertida, fresca y auténtica.",
+        "colors": "La paleta de colores se orienta a transmitir dinamismo y energía:-Azul oscuro: Representa la confianza y el prestigio del Real Madrid.-Blanco: Refleja la pureza y la conexión con el club, que es sinónimo de excelencia.-Amarillo: Añade un toque de vitalidad y energía, evocando la emoción y la acción de un partido de fútbol.",        
+        "type": "La identidad visual de Galactic Crunch combina las tipografías FlipFlop, con su estilo divertido y creativo, y Bebas Neue, que aporta modernidad y solidez. Esta combinación refuerza el enfoque lúdico e innovador de la marca, conectando con su público de manera fresca y atractiva.",
+        "final": "El empaque destaca por su enfoque visual innovador, con gráficos futuristas que aluden a la galaxia y al mismo tiempo integran elementos futbolísticos como balones o trofeos. El diseño busca resaltar tanto la relación con el Real Madrid como la experiencia única que el cereal promete a sus consumidores. La disposición de los elementos y el uso de los colores asegura una alta visibilidad en los estantes, mientras que el logo y los gráficos invitan al consumidor a conectarse con la emoción del fútbol.",
+        "imagen2": "/imagenes/ga2.jpg"
+        }
+    }       
+]
